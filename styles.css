@@ -2,3 +2,15 @@
     color: blue;
 
 }
+
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.navbar-nav > li {
+    padding-left:50px;
+    margin-left:50px;
+}
